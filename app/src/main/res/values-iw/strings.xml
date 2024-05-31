@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lecture Code</string>
+    <string name="title_activity_main">כותרת</string>
+    <string name="floating_description">תיאור צף</string>
+    <string name="settings">הגדרות</string>
+    <string name="fab_message">הודעה</string>
+    <string name="appwidget_text">דוגמה</string>
+    <string name="add_widget">הוספה</string>
+    <string name="app_widget_description">תיאור כלשהו</string>
+    <string name="widget_enabled">הופעל</string>
+    <string name="widget_disabled">בוטל</string>
+    <string name="widget_action_text">W</string>
+    <string name="edit1">ערוך 1</string>
+    <string name="edit2">ערוך 2</string>
+    <string name="clear">נקה</string>
+    <string name="cleared">נוקה</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lecture Code</string>
+    <string name="title_activity_main">A Title</string>
+    <string name="floating_description">Floating description</string>
+    <string name="settings">Settings</string>
+    <string name="fab_message">A message</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="widget_enabled">Widget enabled</string>
+    <string name="widget_disabled">Widget disabled</string>
+    <string name="widget_action_text">W</string>
+    <string name="edit1">Edit 1</string>
+    <string name="edit2">Edit 2</string>
+    <string name="clear">Clear</string>
+    <string name="cleared">Cleared</string>
+</resources>
